@@ -34,9 +34,12 @@ npm install
 Iniciar Redis:
 redis-server
 
+Configurar variables de entorno
+.env.example
+
 ## 🏃 Ejecución
 
-npm run start:dev        La API estará disponible en: http://localhost:3000
+npm run start:dev        La API estará disponible en: http://localhost:3000 o el elegido en .env
 
 ## 📡 Endpoints
 
