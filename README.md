@@ -7,7 +7,7 @@
 ## 🚀 Características
 
 - Crear nuevos superhéroes con:
-  - Nombre único
+  - Nombre
   - Superpoder
   - Puntuación de humildad (1-10)
 - Listar superhéroes ordenados por humildad (descendente)
