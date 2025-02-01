@@ -25,7 +25,7 @@
 ## 🔧 Instalación
 
 Clonar repositorio:
-git clone https://github.com/JavierGomezHuertas/superhero-api.git
+git clone https://github.com/JavierGomezHuertas/Humble-Superhero-API.git
 cd superhero-api
 
 Instalar dependencias:
